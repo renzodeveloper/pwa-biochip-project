@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 55%, #334155 100%);
+    color: #f8fafc;
+    font-family: Inter, system-ui, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 1rem;
+    background: rgba(15, 23, 42, 0.72);
+    box-shadow: 0 20px 40px rgba(15, 23, 42, 0.28);
+    color: #f8fafc;
+    font-weight: 700;
+    font-size: 2rem;
+    letter-spacing: -0.03em;
+}
